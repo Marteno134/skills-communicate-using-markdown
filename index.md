@@ -4,3 +4,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Try step 1
+- [x] Try step 2
+- [x] try step 3
+- [x] try step 4
+- [ ] try step 5
